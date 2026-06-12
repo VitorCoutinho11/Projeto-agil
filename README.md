@@ -1,2 +1,2 @@
 # Projeto-agil
-Integrantes: Roger lucas, allan santana, vitor da silva, renan ferreira
+Integrantes: Roger lucas, allan santana, vitor da silva, renan ferreira e Victor Samuel
